@@ -1,4 +1,4 @@
-qa-orangehrm-login-testing
+Qa-orangehrm-login-testing
 Proyecto de pruebas QA Manual del módulo Login de OrangeHRM Demo
 OrangeHRM Login Testing Project
 
