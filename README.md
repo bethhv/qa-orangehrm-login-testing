@@ -22,6 +22,13 @@ Las pruebas realizadas fueron:
 - Validación de sesión del usuario.
 - Funcionalidad Logout.
 
+Tipos de Testing Aplicados
+- Functional Testing
+- Positive Testing
+- Negative Testing
+- Validation Testing
+- Session Testing
+
 ## Documentación Realizada
 - Test Scenarios.
 - Test Cases.
