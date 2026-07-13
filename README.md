@@ -1,8 +1,7 @@
 # OrangeHRM Login Testing Project
 
 ## Descripción
-
-Proyecto de práctica de QA Manual realizado sobre la aplicación OrangeHRM Demo.
+Proyecto de práctica de QA Manual realizado sobre la aplicación OrangeHRM Demo.  
 El objetivo del proyecto fue diseñar y ejecutar pruebas funcionales sobre el módulo Login, verificando la autenticación de usuarios, validaciones de campos, manejo de sesión y cierre de sesión.
 
 ## Aplicación Probada
@@ -13,7 +12,6 @@ Login
 
 ## Alcance de Pruebas
 Las pruebas realizadas fueron:
-
 - Inicio de sesión con credenciales válidas.
 - Validación de campos obligatorios Username y Password.
 - Validación de credenciales incorrectas.
@@ -42,6 +40,7 @@ Las pruebas realizadas fueron:
 
 ## Resultado de Ejecución
 Total Test Cases: 17
+
 Resultados:
 - PASS: 17
 - FAIL: 0
